@@ -3,22 +3,6 @@
     "type": "project",
     "version": "1.0.0",
     "repositories": [
-        {
-            "type": "package",
-            "package": {
-                "name": "advanced-custom-fields/advanced-custom-fields-pro",
-                "version": "5.9.3",
-                "type": "wordpress-plugin",
-                "dist": {
-                "type": "zip",
-                "url": "https://connect.advancedcustomfields.com/index.php?a=download&p=pro&k={%PLUGIN_ACF_KEY}&t={%version}"
-                },
-                "require": {
-                "composer/installers": "^1.4",
-                "ffraenz/private-composer-installer": "^5.0"
-                }
-        }
-        },
           {
             "type": "composer",
             "url": "https://wpackagist.org"
@@ -37,8 +21,6 @@
         "wpackagist-theme/twentynineteen": "^2.2",
         "wp-coding-standards/wpcs": "^1.2.1",
         "timber/timber": "1.*",
-        "advanced-custom-fields/advanced-custom-fields-pro": "^5.0.0",
-        "wpackagist-plugin/classic-editor": "^1.6",
         "wpackagist-plugin/wordpress-seo": "^17.2",
         "wpackagist-plugin/acf-content-analysis-for-yoast-seo": "^3.0",
         "wpackagist-plugin/svg-support": "^2.3",
