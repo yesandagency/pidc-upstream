@@ -21,7 +21,7 @@
         "wpackagist-theme/twentynineteen": "^2.2",
         "wp-coding-standards/wpcs": "^1.2.1",
         "timber/timber": "1.*",
-        "wpackagist-plugin/wordpress-seo": "^17.2",
+        "wpackagist-plugin/wordpress-seo": "^18.3",
         "wpackagist-plugin/acf-content-analysis-for-yoast-seo": "^3.0",
         "wpackagist-plugin/svg-support": "^2.3",
         "wpackagist-plugin/acf-better-search": "^4.0"
